@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/taskmaster-pro/static/js/main.a085aba7.js",
+    "index.html": "/taskmaster-pro/index.html",
+    "main.a085aba7.js.map": "/taskmaster-pro/static/js/main.a085aba7.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.a085aba7.js"
+  ]
+}
